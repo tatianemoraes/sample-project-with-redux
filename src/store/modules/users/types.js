@@ -1,0 +1,4 @@
+export const TYPES = {
+  GET_REPOSITORIES: 'GET_REPOSITORIES', 
+  SET_USER: 'SET_USER',
+}
